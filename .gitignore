@@ -1,0 +1,5 @@
+.direnv
+*.pyc
+*.egg-info/*
+experiments/
+history.txt
