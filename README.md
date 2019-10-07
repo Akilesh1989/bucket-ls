@@ -11,7 +11,7 @@ This project only has `cd`, `cd ..` and `cd /` implemented for now but will have
 
 Locally, run,
 ```
-git clone https://github.com/Akilesh1989/bucketls.git
+git clone https://github.com/Akilesh1989/bucket-ls.git
 ```
 and then run,
 ```
